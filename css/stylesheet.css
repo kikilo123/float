@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Solitreo';
+    src: url('../fonts/Solitreo-Regular.eot');
+    src: url('../fonts/Solitreo-Regular.eot') format('embedded-opentype'),
+        url('../fonts/Solitreo-Regular.woff2') format('woff2'),
+        url('../fonts/Solitreo-Regular.woff') format('woff'),
+        url('../fonts/Solitreo-Regular.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
